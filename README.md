@@ -12,10 +12,10 @@ BYT雷霆币简介
 
  
 
-🏽 Mars区块浏览器查询地址：
+🏽 BYT区块浏览器查询地址：
 https://hecoinfo.com/token/0xdec540775d98cd60fe2356885d2ff984d977d371#balances
 
-认准Mars合约地址
+认准BYT合约地址
 0xdec540775d98cd60fe2356885d2ff984d977d371
 
 
